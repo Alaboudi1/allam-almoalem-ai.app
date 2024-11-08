@@ -1,0 +1,68 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<title>المسافة الإجمالية التي يقطعها خالد للوصول إلى قريته</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			line-height: 1.5;
+			color: #333;
+		}
+		h1 {
+			margin-top: 0;
+			margin-bottom: 20px;
+		}
+		h2 {
+			font-size: 1.2em;
+			margin-top: 0;
+			margin-bottom: 10px;
+		}
+		p {
+			margin-top: 0;
+			margin-bottom: 10px;
+		}
+		.section {
+			padding: 20px;
+			background-color: #f1f1f1;
+			border-radius: 5px;
+			box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+			margin-bottom: 20px;
+		}
+		.section h2 {
+			margin-top: 0;
+			margin-bottom: 5px;
+		}
+		.section p {
+			margin-top: 0;
+		}
+	</style>
+</head>
+<body>
+	<h1>المسافة الإجمالية التي يقطعها خالد للوصول إلى قريته</h1>
+	<section>
+		<h2>المعلومات المعطاة</h2>
+		<p>يعيش خالد في قرية تبعد 20 كيلومتر عن محطة الحافلات. يركب الحافلة لمسافة 335 كيلومتر ليصل إلى قريته.</p>
+	</section>
+	<section>
+		<h2>تحديد المطلوب</h2>
+		<p>نريد معرفة المسافة الإجمالية التي يقطعها خالد للذهاب إلى قريته.</p>
+	</section>
+	<section>
+		<h2>الحلول الممكنة</h2>
+		<p>يمكننا استخدام معادلة المسافة الإجمالية = مسافة المنزل إلى المحطة + مسافة الحافلة إلى القرية.</p>
+	</section>
+	<section>
+		<h2>تطبيق المعادلة</h2>
+		<p>المسافة الإجمالية = 20 كيلومتر (منزل إلى المحطة) + 335 كيلومتر (الحافلة إلى القرية)</p>
+	</section>
+	<section>
+		<h2>حساب النتيجة</h2>
+		<p>المسافة الإجمالية = 20 + 335 = 355 كيلومتر</p>
+	</section>
+	<section>
+		<h2>النتيجة</h2>
+		<p>إذاً، يقطع خالد مسافة 355 كيلومتر للذهاب إلى قريته.</p>
+	</section>
+</body>
+</html> 

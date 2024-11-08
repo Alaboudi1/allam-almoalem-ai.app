@@ -1,0 +1,1 @@
+{"input":"<s> [INST]\n\t\tهو 15 8 م حل المعادلة أ 23 ب 8 ج 22 د 7[/INST]","parameters":{"decoding_method":"greedy","max_new_tokens":900,"min_new_tokens":0,"stop_sequences":[],"repetition_penalty":1},"model_id":"sdaia/allam-1-13b-instruct","project_id":"43e85ced-b69e-4504-a3ee-8d1bbd0b0b65"}

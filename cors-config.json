@@ -1,0 +1,18 @@
+[
+  {
+    "origin": [
+      "http://localhost:3000",
+      "https://allam-almoalem-eta.vercel.app",
+      "https://www.allam-almoalem-ai.app"
+    ],
+    "method": [
+      "GET",
+      "HEAD",
+      "POST"
+    ],
+    "responseHeader": [
+      "Content-Type"
+    ],
+    "maxAgeSeconds": 3600
+  }
+]
